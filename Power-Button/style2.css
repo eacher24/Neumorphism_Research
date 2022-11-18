@@ -1,0 +1,23 @@
+body{
+    background-color: #ececec;
+    padding: 0;
+    margin: 0;
+
+}
+
+imput[type="checkbox"]{
+    height: 200px;
+    width: 200px;
+    -webkit-appearance: none;
+    box-shadow:
+    -10px -10px 15px rgba(255, 255, 255, 0.5),
+    10px 10px 15px rgba(70, 70,70, 0.12);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    border: 8px solid #ececec;
+    outline: none;
+    
+}
