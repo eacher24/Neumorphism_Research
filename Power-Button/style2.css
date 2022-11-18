@@ -5,7 +5,7 @@ body{
 
 }
 
-imput[type="checkbox"]{
+input[type="checkbox"]{
     height: 200px;
     width: 200px;
     -webkit-appearance: none;
@@ -20,4 +20,8 @@ imput[type="checkbox"]{
     border: 8px solid #ececec;
     outline: none;
     
+}
+
+input[type="checkbox"]: after{
+    font-family: ;
 }
